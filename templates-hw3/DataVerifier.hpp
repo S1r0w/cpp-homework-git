@@ -1,4 +1,4 @@
-// DataVerifier.hpp
+
 #ifndef DATAVERIFIER_HPP
 #define DATAVERIFIER_HPP
 
